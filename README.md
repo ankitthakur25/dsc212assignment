@@ -9,7 +9,7 @@ Implemented **Recursive Spectral Modularity Partitioning** from scratch on Zacha
 
 ## Repository Contents
 - `DSC212_Karate_Modularity.ipynb`: Main notebook (runs top-to-bottom).
-- `*.png`: Visualizations of graph splits, node metric evolution, and Modularity \(Q\) vs. Ground Truth (ARI/NMI).
+- `*GRAPHS.ZIP`: Visualizations of graph splits, node metric evolution, and Modularity \(Q\) vs. Ground Truth (ARI/NMI) PRODUCED OUTPUT IMAGES.
 
 ## Key Findings
 - The first split almost perfectly recovers the historical two-faction split.
